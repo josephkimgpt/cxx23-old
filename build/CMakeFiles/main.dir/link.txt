@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wextra -Wpedantic -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/src/add.cc.o CMakeFiles/main.dir/src/main.cc.o -o main  libguc_lib.a

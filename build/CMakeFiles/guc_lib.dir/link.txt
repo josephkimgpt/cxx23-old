@@ -1,0 +1,2 @@
+/usr/bin/ar qc libguc_lib.a CMakeFiles/guc_lib.dir/src/add.cc.o
+/usr/bin/ranlib libguc_lib.a
